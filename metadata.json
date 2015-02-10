@@ -1,7 +1,7 @@
 {
 	"name":"Metalwork",
 	"thumbnail":"metalwork.png",
-    "tags": { "en": ["coffee shop", "bar", "cafe"] },
+    "tags": { "en": ["construction", "metalwork", "build"] },
     "pageTypes":["home"],
     "templateType":"standard",
     "colorSwatches":
